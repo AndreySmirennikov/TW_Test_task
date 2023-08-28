@@ -1,0 +1,17 @@
+{
+  "pwd8Characters" : "8 or more characters",
+  "pwdOneUpperCase" : "At least one upper case character",
+  "pwdOneDigit" : "At least one digit",
+  "pwdOneSymbol" : "At least one symbol",
+  "pwdValidation" : "Passwords do not match",
+  "backUpPhraseWarning" : "Back up safely these 12 words in a piece of paper and never share it with anyone.",
+  "showBtnText" : "Show",
+  "incorrectPhrase" : "Invalid Secret Phrase",
+  "successCreatedWalletMsg" : "You have successfully imported your wallet!",
+  "successCreatedWalletWarning" : "Remember to keep your Secret Phrase safe!",
+  "firstEntranceTipHeadline1" : "How to access dApps with Trust Wallet",
+  "firstEntranceTipText1" : "With Trust Wallet, you have 3 easy ways to access dApps.\nChoose one of these when it's time to connect:\nThe Trust Wallet icon\nThe WalletConnect icon\nThe 'Injected' or 'Browser' wallet icon",
+  "firstEntranceTipHeadline2" : "Manage all your tokens easily",
+  "firstEntranceTipText2" : "Millions of tokens are available out of the box, including Ethereum, Solana, our own Trust Wallet Token (TWT), and all EVM tokens. Start by selecting your favorite ones.",
+  "zeroBalance" : "$0.00"
+}

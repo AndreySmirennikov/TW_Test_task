@@ -1,0 +1,17 @@
+{
+  "pwd8Characters" : "8 o más caracteres",
+  "pwdOneUpperCase" : "Al menos un carácter en mayúscula",
+  "pwdOneDigit" : "Al menos un dígito",
+  "pwdOneSymbol" : "Al menos un símbolo",
+  "pwdValidation" : "Las contraseñas no coinciden",
+  "backUpPhraseWarning" : "Haz una copia de seguridad de estas 12 palabras en un papel y no lo compartas nunca con nadie.",
+  "showBtnText" : "Mostrar",
+  "incorrectPhrase" : "Frase secreta inválida",
+  "successCreatedWalletMsg" : "¡Importaste tu billetera correctamente!",
+  "successCreatedWalletWarning" : "Recuerda mantener la seguridad de tu Secret Phrase.",
+  "firstEntranceTipHeadline1" : "Cómo acceder a DApps con Trust Wallet",
+  "firstEntranceTipText1" : "Con Trust Wallet tienes 3 formas sencillas de acceder a las DApps.\nElige una de ellas cuando llegue el momento de conectarte:\nEl ícono de Trust Wallet\nEl ícono de WalletConnect\nEl ícono de billetera \"integrada\" o \"de navegador\"",
+  "firstEntranceTipHeadline2" : "Gestiona fácilmente todos tus tokens",
+  "firstEntranceTipText2" : "Hay millones de tokens disponibles para usar, como Ethereum, Solana, nuestro propio Trust Wallet Token (TWT) y todos los tokens EVM. Comienza por elegir tus favoritos.",
+  "zeroBalance" : "0,00 $"
+}
